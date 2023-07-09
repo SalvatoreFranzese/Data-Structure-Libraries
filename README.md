@@ -1,5 +1,5 @@
 # Data-Structure-Libraries
-Librerie implementate durante il corso LASD (Laboratorio di Algoritmi e Strutture Dati) A.A. 2020/2021.
+Librerie implementate durante il corso di LASD (Laboratorio di Algoritmi e Strutture Dati) A.A. 2020/2021.
 
 La libreria contiene l'implementazione delle seguenti strutture dati:
 - Vettori e Liste
